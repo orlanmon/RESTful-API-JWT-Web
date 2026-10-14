@@ -1,4 +1,4 @@
-Angular 20 Application used to test a Secured JSON Web Token RESTful Web API Web
+Angular 20 Application used to test an ASP.NET CORE MVC Web Service Secured with JSON Web Token
 
 How to use this demo.
 
