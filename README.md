@@ -1,4 +1,4 @@
-Angular 20 Application used to test an ASP.NET CORE MVC Web Service Secured with JSON Web Token
+Angular 20 Application used to test an ASP.NET CORE MVC Web Service Secured with JSON Web Token (JWT)
 
 How to use this demo.
 
